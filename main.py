@@ -1,5 +1,8 @@
-print("Hello, Nihit!")
-print("My name is Nihit")
-print("I am learning Python")
-print("The result of 3+4 is", 3+4)     
+num = -3
+if num > 0:
+    print(num,"is a positive number")
+
+num = 1
+if num > 0:
+    print(num,"is a positive number")
 
